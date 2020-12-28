@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Trident"
+  "defaultProject": "Trident",
+  "cli": {
+    "analytics": "da58df7f-ee97-4845-917c-12b89297d805"
+  }
 }
